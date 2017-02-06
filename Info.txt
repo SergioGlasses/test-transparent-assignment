@@ -1,0 +1,17 @@
+Hola Nil.
+
+Habré tardado en hacerlo en total unas 4 horas.
+Finalmente he hecho todo salvo la paginación que ya no me dió tiempo pero se perfectametne como hacerlo.
+
+Creé una base de datos de mongo en local para la inserción y lectura del owner, lo digo por si a la hora de ejecutarlo
+no tienes la base de datos owners en local y no se muestra nada es porque solo hago el mostrar los datos por consola una vez
+que han sido insertados en mongo.
+
+Instalé tambien el nodemon y express (aunque este último no lo usé) para ir haciendo las pruebas.
+
+La funcion está creada a la cual hay que pasarle la url, de momento yo la tengo puesta en el código 
+como podrás observar en el index.js
+
+Espero que os sirva.
+
+Gracias!
